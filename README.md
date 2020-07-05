@@ -1,3 +1,7 @@
+https://marpit19.github.io/covid-tracker/
+
+Would tell you all the stats about COVID-19
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
